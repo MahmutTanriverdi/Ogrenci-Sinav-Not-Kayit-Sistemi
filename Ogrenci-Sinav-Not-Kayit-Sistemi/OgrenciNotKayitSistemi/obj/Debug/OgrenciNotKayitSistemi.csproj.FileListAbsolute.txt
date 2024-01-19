@@ -1,0 +1,12 @@
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.exe.config
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.FrmGiris.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.FrmOgrenciDetay.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.FrmOgretmenDetay.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.Properties.Resources.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.GenerateResource.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.pdb
